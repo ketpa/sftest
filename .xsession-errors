@@ -1,0 +1,7 @@
+stdin: is not a tty
+Xsession: X session started for root at Thu Mar  2 09:31:35 CET 2017
+localuser:root being added to access control list
+** Message: main.vala:99: Session is LXDE
+** Message: main.vala:100: DE is LXDE
+** Message: main.vala:131: log directory: /root/.cache/lxsession/LXDE
+** Message: main.vala:132: log path: /root/.cache/lxsession/LXDE/run.log
